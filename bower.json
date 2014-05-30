@@ -1,0 +1,24 @@
+{
+  "name": "k-table",
+  "main": "k-table.min.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/KONDENSATOR/k-table",
+  "authors": [
+    "josephbadran <joseph@kondensator.se>"
+  ],
+  "description": "Jquery datatables 1.10 wrapped together with sensible defaults, like bootstrap and swe lang.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "font-awesome": "~4.1.0"
+  }
+}
